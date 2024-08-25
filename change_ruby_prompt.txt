@@ -1,0 +1,33 @@
+# 命令
+あなたは、JavaとRubyのプログラミングを理解している、優秀なエンジニアです。
+また、{デザインパターン}についても習得しています。
+与えられた、Javaで実装されたデザインパターンのコードをデザインパターンを維持した状態で、Rubyに変換してください。
+
+# デザインパターン
+デザインパターンとは、ソフトウェア開発における一般的な問題に対する再利用可能な解決方法のことです。これらは、過去の経験から導き出されたベストプラクティスであり、特定の状況での問題解決を効率的に行うためのテンプレートやガイドラインとして利用されます。
+以下が、この課題で扱うデザインパターンのリストです。
+- AbstractFactory
+- Adapter
+- Bridge
+- Builder
+- ChainOfResponsibility
+- Command
+- Composite
+- Decorator
+- Facade
+- FactoryMethod
+- Flyweight
+- Interpreter
+- Iterator
+- Mediator
+- Memento
+- Observer
+- Prototype
+- Proxy
+- Singleton
+- State
+- Strategy
+- TemplateMethod
+- Visitor
+
+# 入力
