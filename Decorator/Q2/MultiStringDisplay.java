@@ -1,0 +1,1 @@
+// MultiStringDisplayクラスを実装してください。

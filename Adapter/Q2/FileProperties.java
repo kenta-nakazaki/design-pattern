@@ -1,0 +1,1 @@
+// FilePropertiesクラスを実装してください。
